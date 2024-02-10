@@ -1,5 +1,5 @@
 ### Hello there 👋 My name is Ata Uzay Kuzey
-### I'm a CS major studying in Bilkent University.
+### I'm a Computer Science major / Mathematics minor studying in Bilkent University.
 
 <!--
 **uzaykuzey/uzaykuzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
